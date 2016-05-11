@@ -57,3 +57,21 @@
   - From idea to concept of features.
 - Ideas,suggestions, visia about Front End meetup. We need your thoughts. - @boban_radeski
 
+
+# 8. 12 април 2016
+
+Теми:
+
+- Front-end Development Work Positions - @GoceMitevski
+   - https://tinyurl.com/fed-work-positions
+- Task Runners in JS - @azder
+
+# 9. 10 мај 2016
+
+Теми:
+
+- React lifecycle methods and DOM manipulation - jordanovskid 
+- Automated Visual CSS testing - @boban_radeski
+  - Introduction to automated CSS testing with demo. 
+  - How to do visual tests on a right way.
+  - Level: intermediate 
