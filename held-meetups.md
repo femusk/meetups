@@ -57,3 +57,42 @@
   - From idea to concept of features.
 - Ideas,suggestions, visia about Front End meetup. We need your thoughts. - @boban_radeski
 
+
+# 8. 12 април 2016
+
+Теми:
+
+- Front-end Development Work Positions - @GoceMitevski
+   - https://tinyurl.com/fed-work-positions
+- Task Runners in JS - @azder
+
+# 9. 10 мај 2016
+
+Теми:
+
+- React lifecycle methods and DOM manipulation - jordanovskid 
+- Automated Visual CSS testing - @boban_radeski
+  - Introduction to automated CSS testing with demo. 
+  - How to do visual tests on a right way.
+  - Level: intermediate 
+
+# 10. 14 јуни 2016
+
+Теми:
+- Adobe Experience Design: 
+    - Overview of the new Adobe's tool - advantages and features. @viktori_jas Викторија Бачварова)
+- Styling React with JS -  What? How? Why?!
+    - Using inline styles with combination to "aphrodite" for a perfect styling flow in React
+    - Bonus: using js mixins and helpers for faster writing of styles and css3 animations
+    - Level: beginner/intermediate
+    - Presented by: Кристијан Ристовски (@thekitze)
+
+# 11. 12 јули 2016
+
+Теми:
+- Code Review од @azder за https://femusk.github.io/image-generator/ направен од @GoceMitevski
+- Гледање видеа - предлози: Inventing on a principle - Bret Victor, Render conf, Interaction16
+
+# 12. 13 септември 2016
+
+Работилница: правење на font loader за https://femusk.github.io/image-generator/
