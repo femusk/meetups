@@ -1,7 +1,6 @@
-#  Templates
+# Templates
 
 For different standard announcements.
-
 
 ## Twitter
 
@@ -9,10 +8,7 @@ For different standard announcements.
 - right now @{presenter} speaks about "{subject}" for @FrontEndSK @ #skopjehaklab
 - Meetup #{meetupnum} started @ #skopjehaklab
 - {order} presentation at yesterday's @FrontEndSK #{meetupnum} by @{presenter} can be found @ {url}
-
-
 - ??? Уште една Front-end-средба {meetupnum} во вторник во хаклаб КИКА, стандардно од 19:00 часот.
-
 - СподелиЗнаење: Front-end-средба {meetupnum}, вторник, 12.04.2016, 19:00 {blogurl} … RSVP: {meetupurl}
 
 ## CodeWall
