@@ -1,3 +1,5 @@
+![лого на Front-end Meetup Skopje (FEMUSK)](front-end-meetup-skopje-femusk-logo.png)
+
 # Front-end Meetup Skopje (FEMUSK)
 
 ## Инфо за одржување средби
