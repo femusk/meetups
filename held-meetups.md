@@ -1,5 +1,7 @@
 # Одржани средби
 
+---
+
 ## FEMUSK 1
 
 ### 10. февруари 2015
@@ -123,3 +125,75 @@
 ### 13. септември 2016
 
 Работилница: правење на font loader за https://femusk.github.io/image-generator/
+
+## FEMUSK 13
+
+### 15. октомври 2016 (сабота), 13:00
+
+Работилница: Учиме Git!
+
+## FEMUSK 14
+
+### 8. ноември 2016
+
+#### Теми:
+
+- JS libraries, tools and frameworks timeline - Игор Буловски
+
+Список за Git работилница #2, детали наскоро:
+
+01. Викторија Крстеска
+02. Виктор Ѓоргоноски
+03. Visar Zejnullahu
+04. Lea Karbevska
+05. Tino Lubeski (tinnotl)
+06. Nikola Demerdjiev
+07. Iva Ilievska
+08. Elena Gerovska
+09. Стефан Цоковски
+
+## FEMUSK 15
+
+### 13. декември 2016
+
+#### Теми:
+
+- Ефективно визуелизирање на податоци - Aна Ристеска
+
+## FEMUSK Beer
+
+### 8. март 2017
+
+- Фронт-енд-пиво во Порта паб
+
+## FEMUSK 16
+
+### 9. мај 2017
+
+#### Теми:
+
+- CSS Grid - Aна Ристеска
+
+## FEMUSK 17
+
+### 13. јуни 2017
+
+#### Теми:
+
+- User Story Mapping - Бојан Тодевски
+
+## FEMUSK 18
+
+### 10. јули 2018
+
+#### Теми:
+
+- Custom Properties/CSS Variables - [@alexhris](https://twitter.com/alexhris)
+
+## FEMUSK 19
+
+### 14. август 2018
+
+#### Теми:
+
+- сѐ уште нема пријавени
