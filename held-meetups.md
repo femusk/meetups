@@ -10,55 +10,53 @@
 
 ## FEMUSK #2 ( 6. октомври 2015 )
 
-- Front- Trends Warsaw 2015: Recap and lessons learned - @_anaris
-- ES6 т.е. ES2015 денес (Node.js 4.0.0 т.е.  V8 v4.5) - @azder
-- Browser Apps dev with Aurelia.js and TypeScript - @bojanv91
-- GULP - JS Task Runner - @boban_radeski
+- Front- Trends Warsaw 2015: Recap and lessons learned - [@_anaris]
+- ES6 т.е. ES2015 денес (Node.js 4.0.0 т.е.  V8 v4.5) - [@azder]
+- Browser Apps dev with Aurelia.js and TypeScript - [@bojanv91]
+- GULP - JS Task Runner - [@boban_radeski]
 
 ## FEMUSK #3 ( 5. ноември 2015 )
 
-- GreenSock Animation Platform (GSAP) - @GoceMitevski (Гоце Митевски)
-- Custom Elements with Polymer Project - @boban_radeski
+- GreenSock Animation Platform (GSAP) - [@GoceMitevski]
+- Custom Elements with Polymer Project - [@boban_radeski]
 
 ## FEMUSK #4 ( 1. декември 2015 )
 
-- Native Script (Telerik) - Goran and Sashko
-  - _не се одржа затоа што предавачите не се појавија_
-- Mithril - @KTrajkovski (Кристијан Трајковски)
+- ~~Native Script (Telerik) - Goran and Sashko~~ _не се одржа затоа што предавачите не се појавија_
+- Mithril - [@KTrajkovski]
 
 ## FEMUSK #5 ( 12. јануари 2016 )
 
-- Flexbox - @alexhris (Sandra)
-- OOCSS (Object Oriented CSS) - @boban_radeski
+- Flexbox - [@alexhris]
+- OOCSS (Object Oriented CSS) - [@boban_radeski]
   - Introduction and using Object-Oriented CSS with Sass pre processor
   - Level: beginner/intermediate
 
 ## FEMUSK #6 ( 9. февруари 2016 )
 
-- Functional Programming & ES2015 -  @azder (Горан Пеоски)
+- Functional Programming & ES2015 -  [@azder]
   - basics of FP in JS implemented using ES2015
-- Дизајн и UX за дигитални формулари/форми - @_anaris
+- Дизајн и UX за дигитални формулари/форми - [@_anaris]
   - Практични техники преку вистински примери
 
 ## FEMUSK #7 ( 8. март 2016 )
 
-- React / Redux - @whoeverest (Андреј Т.)
+- React / Redux - [@whoeverest]
   - basics, или pitfalls или performance considerations
-- Creating UX design concepts - @viktori_jas (Викторија Бачварова)
+- Creating UX design concepts - [@viktori_jas]
   - From idea to concept of features.
-- Ideas,suggestions, visia about Front End meetup. We need your thoughts. - @boban_radeski
+- Ideas, suggestions, visia about Front End meetup. We need your thoughts. - [@boban_radeski]
 
 ## FEMUSK #8 ( 12. април 2016 )
 
-- Front-end Development Work Positions - @GoceMitevski
+- Front-end Development Work Positions - [@GoceMitevski]
   - <https://tinyurl.com/fed-work-positions>
-
-- Task Runners in JS - @azder
+- Task Runners in JS - [@azder]
 
 ## FEMUSK #9 ( 10. мај 2016 )
 
-- React lifecycle methods and DOM manipulation - jordanovskid
-- Automated Visual CSS testing - @boban_radeski
+- React lifecycle methods and DOM manipulation - [@jordanovskid]
+- Automated Visual CSS testing - [@boban_radeski]
   - Introduction to automated CSS testing with demo.
   - How to do visual tests on a right way.
   - Level: intermediate
@@ -66,16 +64,15 @@
 ## FEMUSK #10 ( 14. јуни 2016 )
 
 - Adobe Experience Design:
-  - Overview of the new Adobe's tool - advantages and features. @viktori_jas Викторија Бачварова)
-- Styling React with JS -  What? How? Why?!
+  - Overview of the new Adobe's tool - advantages and features. - [@viktori_jas]
+- Styling React with JS -  What? How? Why?! - [@thekitze]
   - Using inline styles with combination to "aphrodite" for a perfect styling flow in React
   - Bonus: using js mixins and helpers for faster writing of styles and css3 animations
   - Level: beginner/intermediate
-  - Presented by: Кристијан Ристовски (@thekitze)
 
 ## FEMUSK #11 ( 12. јули 2016 )
 
-- Code Review од @azder за <https://femusk.github.io/image-generator/> направен од @GoceMitevsk13 септември 2016i
+- Code Review од [@azder] за <https://femusk.github.io/image-generator/> направен од [@GoceMitevski]
 - Гледање видеа - предлози: Inventing on a principle - Bret Victor, Render conf, Interaction16
 
 ## FEMUSK #12 ( 13. септември 2016 )
@@ -92,7 +89,7 @@
 
 ## FEMUSK #15 ( 13. декември 2016 )
 
-- Ефективно визуелизирање на податоци - Aна Ристеска
+- Ефективно визуелизирање на податоци - [@_anaris]
 
 ## FEMUSK Beer ( 8. март 2017 )
 
@@ -100,7 +97,7 @@
 
 ## FEMUSK #16 ( 9. мај 2017 ) 
 
-- CSS Grid - Aна Ристеска
+- CSS Grid - [@_anaris]
 
 ## FEMUSK #17 ( 13. јуни 2017 )
 
@@ -108,5 +105,20 @@
 
 ## FEMUSK #18 ( 10. јули 2018 )
 
-- Custom Properties/CSS Variables - [@alexhris](https://twitter.com/alexhris)
+- Custom Properties/CSS Variables - [@alexhris]
 
+
+
+
+
+[@_anaris]:         https://twitter.com/_anaris         "Ана Ристеска"
+[@alexhris]:        https://twitter.com/alexhris        "Сандра"
+[@azder]:           https://twitter.com/azder           "Горан Пеоски"
+[@GoceMitevski]:    https://twitter.com/GoceMitevski    "Гоце Митевски"
+[@boban_radeski]:   https://twitter.com/boban_radeski   "Бобан Радески"
+[@bojanv91]:        https://twitter.com/bojanv91        "Бојан Велјановски"
+[@KTrajkovski]:     https://twitter.com/KTrajkovski     "Кристијан Трајковски"
+[@jordanovskid]:    https://twitter.com/jordanovskid    "Душко Јордановски"
+[@whoeverest]:      https://twitter.com/whoeverest      "Андреј Т"
+[@viktori_jas]:     https://twitter.com/viktori_jas     "Викторија Бачварова"
+[@thekitze]:        https://twitter.com/thekitze        "Кристијан Ристовски"
