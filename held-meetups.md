@@ -106,7 +106,7 @@
 ## #18. 10 јули 2018
 
 - Custom Properties/CSS Variables - [@alexhris]
-
+    - <https://slides.com/alexhris/css-custom-properties#/>
 
 
 
