@@ -108,7 +108,10 @@
 - Custom Properties/CSS Variables - [@alexhris]
     - <https://slides.com/alexhris/css-custom-properties#/>
 
+## #19. 12 ноември 2018
 
+- 5 essential tools to keep your JS apps sane and scalable - Martin Zlámal (Kiwi.com Senior Frontend Developer)
+- Serverless back-end services for JS developers - Michal Sanger (Kiwi.com Principal Engineer)
 
 
 [@_anaris]:         https://twitter.com/_anaris         "Ана Ристеска"
